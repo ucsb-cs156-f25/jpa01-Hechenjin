@@ -1,6 +1,6 @@
 # jpa01-Hechenjin
 
-Deployed at: http://jpa01-hechenjin.dokku-05.cs.ucsb.edu
+Deployed at: https://jpa01-hechenjin.dokku-05.cs.ucsb.edu
 
 
 # About this repo
